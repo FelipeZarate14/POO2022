@@ -6,7 +6,7 @@ package javabasico2209;
 
 /**
  *
- * @author Felipe Zarate
+ * @author felipezarate
  */
 public class Arbol {
     private float altura;
@@ -53,5 +53,4 @@ public class Arbol {
     public static void generarOxigeno(){
         System.out.println("Generando oxigeno....");
     }
-        
 }
